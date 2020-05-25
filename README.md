@@ -1,7 +1,7 @@
 # Computer-Modern-Unicode-Oesol
 Computer Modern Unicode Oesol (이하, CMUO)은 언어학자 외솔 최현배 선생이 고안한 풀어쓰기 한글 자모를 구현한 컴퓨터 글꼴입니다.
 
-Computer Modern Unicode Oesol (henceforth, CMUO) is a computer font set for disassembled Hangul, invented by Choe Hyeon-bae (a.k.a. Oesol), a Korean linguist. (English version of this document is in preperation.)
+Computer Modern Unicode Oesol (henceforth, CMUO) is a computer font set for disassembled Hangul, invented by Choe Hyeon-bae (a.k.a. Oesol), a Korean linguist. (An English version of this document is in preperation.)
 
 ## 코드
 
