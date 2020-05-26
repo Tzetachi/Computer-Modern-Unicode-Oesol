@@ -4,7 +4,7 @@ FullName: CMUO Serif Roman
 FamilyName: CMUO Serif
 Weight: Medium
 Copyright: Modified by Jihu S. Kim from CMU fonts.\n\nConverted by Andrey V. Panov from TeX fonts. Some glyphs are copied from Blue Sky fonts released by AMS.
-Version: 1.0
+Version: 1.1
 ItalicAngle: 0
 UnderlinePosition: -150
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1245311475
-ModificationTime: 1590426968
+ModificationTime: 1590502003
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -101237,7 +101237,7 @@ SplineSet
  136 605 l 2
  136 641 134 652 57 652 c 2
  33 652 l 1
- 33 683 l 5
+ 33 683 l 1
  68 680 143 680 181 680 c 0
  219 680 293 680 328 683 c 1
  328 652 l 1
@@ -101249,8 +101249,8 @@ SplineSet
  455 433 455 445 455 512 c 0
  455 577 455 608 496 646 c 0
  537 682 577.2421875 692.158203125 608 690 c 0
- 634.904296875 688.112304688 659.233398438 688.189453125 686.388671875 661.033203125 c 0
- 716.793945312 630.627929688 686.524414062 627.92578125 682.178710938 637.5234375 c 0
+ 634.904296875 688.112304688 659.233398438 688.189453125 686.388671875 661.033203125 c 4
+ 716.793945312 630.627929688 686.524414062 627.92578125 682.178710938 637.5234375 c 4
  666.743164062 671.6171875 624.506835938 678.8828125 604 661 c 0
  582.303710938 642.080078125 566 617 552 524 c 2
  539 453 l 2
@@ -101259,7 +101259,7 @@ SplineSet
  225 321 l 1
  225 78 l 2
 EndSplineSet
-Kerns2: 2292 -167 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable"
+Kerns2: 2283 -30 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2284 -30 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2285 -150 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2286 -40 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2288 -139 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2290 -150 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2291 -120 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2292 -167 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2293 -167 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2294 -100 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2295 -50 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2297 -125 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2298 -120 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2299 -30 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2301 -120 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2302 -125 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2303 -100 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2306 -120 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2310 -100 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2313 -30 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2314 -100 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2318 -100 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2319 -125 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2320 -125 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2322 -100 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2328 -125 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2329 -140 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2330 -100 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2331 -50 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2332 -50 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" 2333 -100 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable"
 EndChar
 
 StartChar: uniE00C
