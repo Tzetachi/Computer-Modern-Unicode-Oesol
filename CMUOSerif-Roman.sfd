@@ -4,7 +4,7 @@ FullName: CMUO Serif Roman
 FamilyName: CMUO Serif
 Weight: Medium
 Copyright: Modified by Jihu S. Kim from CMU fonts.\n\nConverted by Andrey V. Panov from TeX fonts. Some glyphs are copied from Blue Sky fonts released by AMS.
-Version: 1.1
+Version: 1.11
 ItalicAngle: 0
 UnderlinePosition: -150
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1245311475
-ModificationTime: 1590502003
+ModificationTime: 1590874564
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -102177,6 +102177,7 @@ SplineSet
  405 674 l 1
  405 71 l 2
 EndSplineSet
+Decomposition: "+4BIDBgAA"
 EndChar
 
 StartChar: uniE01A
@@ -102220,6 +102221,7 @@ SplineSet
  90 646 75 613 61 452 c 1
  36 452 l 1
 EndSplineSet
+Decomposition: "+4BQDBgAA"
 EndChar
 
 StartChar: uniE038
@@ -102346,6 +102348,7 @@ SplineSet
  395.5 551 322.5 503 249.5 503 c 4
  179.5 503 103.5 549 99.5 639 c 5
 EndSplineSet
+Decomposition: "+4C8DBgAA"
 EndChar
 
 StartChar: uniE037
@@ -102387,6 +102390,7 @@ SplineSet
  63 408 57 369 50 269 c 1
  25 269 l 1
 EndSplineSet
+Decomposition: "+4DEDBgAA"
 EndChar
 
 StartChar: uniE032
