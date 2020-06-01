@@ -4,7 +4,7 @@ FullName: CMUO Serif Italic
 FamilyName: CMUO Serif
 Weight: Medium
 Copyright: Modified by Jihu S. Kim from CMU fonts.\n\nConverted by Andrey V. Panov from TeX fonts. Some glyphs are copied from Blue Sky fonts released by AMS.
-Version: 1.01
+Version: 1.02
 ItalicAngle: -14.04
 UnderlinePosition: -150
 UnderlineWidth: 50
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1245312225
-ModificationTime: 1590914619
+ModificationTime: 1591051180
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -79,7 +79,7 @@ Lookup: 260 0 0 "'mark' +ucjQbMdY +xwTOWMnAyBUA lookup 2" { "'mark' +ucjQbMdY +x
 Lookup: 258 0 0 "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3" { "'kern' +rAC4XMTwrjAA +zuSy3QAA lookup 3 subtable" [150,15,0] } ['kern' ('cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "Computer Modern Unicode Oesol : CMUO Serif Italic : 28-5-2020" "" "" "" "" "" "" "" "" "https://github.com/Tzetachi" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied together with this font package in OFL.txt,+AAoA-and is also available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "Computer Modern Unicode Oesol : CMUO Serif Italic : 2-6-2020" "" "" "" "" "" "" "" "" "https://github.com/Tzetachi" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied together with this font package in OFL.txt,+AAoA-and is also available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -75420,6 +75420,7 @@ SplineSet
  580 788 551 767 527 767 c 4
  498 767 484 792 491 819 c 4
 EndSplineSet
+Decomposition: "+4AgDBwAA"
 EndChar
 
 StartChar: uniE00A
@@ -75762,38 +75763,41 @@ EndChar
 
 StartChar: uniE018
 Encoding: 57368 57368 1601
-Width: 334
+Width: 385
 Flags: W
-HStem: 0 31<33 131.654 225.726 309> 652 31<196 279.612 373.346 472> 767 105<340 403.512>
-VStem: 322 98<784.042 854.387>
+HStem: 0 31<76.5 91 298 320> 652 31<237 259.5 235.5 264 467 480.5> 760 106<390 403>
+VStem: 343 107<808 818>
 LayerCount: 2
 Fore
 SplineSet
-322 819 m 4
- 330 850 360 872 385 872 c 4
- 411 872 428 850 420 819 c 4
- 412 788 383 767 359 767 c 4
- 330 767 315 792 322 819 c 4
-25 0 m 1
- 33 31 l 1
- 57 31 l 2
- 130 31 136 42 145 78 c 2
- 277 605 l 6
- 286 641 286 652 213 652 c 6
- 189 652 l 5
- 196 683 l 5
- 228 680 302 680 338 680 c 4
- 373 680 447 680 480 683 c 5
- 472 652 l 5
- 448 652 l 6
- 375 652 369 641 360 605 c 6
- 228 78 l 2
- 219 42 220 31 293 31 c 2
- 317 31 l 1
- 309 0 l 1
- 277 3 204 3 168 3 c 0
- 133 3 58 3 25 0 c 1
+343 803 m 0
+ 343 833 373 866 407 866 c 0
+ 433 866 450 847 450 823 c 0
+ 450 793 420 760 386 760 c 0
+ 360 760 343 779 343 803 c 0
+57 13 m 0
+ 57 31 66 31 87 31 c 0
+ 154 31 163 39 171 72 c 2
+ 307 616 l 2
+ 308 619 310 632 310 635 c 0
+ 310 652 281 652 247 652 c 0
+ 227 652 220 652 220 665 c 0
+ 220 683 232 683 239 683 c 0
+ 280 683 323 680 364 680 c 0
+ 405 680 447 683 487 683 c 0
+ 491 683 501 683 501 671 c 0
+ 501 652 491 652 470 652 c 0
+ 401 652 395 643 387 611 c 2
+ 252 71 l 2
+ 248 56 248 50 248 49 c 0
+ 248 38 248 31 310 31 c 0
+ 330 31 338 31 338 19 c 0
+ 338 0 325 0 318 0 c 0
+ 278 0 235 3 194 3 c 0
+ 153 3 111 0 71 0 c 0
+ 64 0 57 2 57 13 c 0
 EndSplineSet
+Decomposition: "+4BcDBwAA"
 EndChar
 
 StartChar: uniE022
