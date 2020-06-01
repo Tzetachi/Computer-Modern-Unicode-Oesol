@@ -97203,6 +97203,7 @@ SplineSet
  517.305664062 674 l 1
  416.830078125 71 l 2
 EndSplineSet
+Decomposition: "+4BIDBgAA"
 EndChar
 
 StartChar: uniE01A
@@ -97246,6 +97247,7 @@ SplineSet
  197.639648438 646 177.141601562 613 136.314453125 452 c 1
  111.314453125 452 l 1
 EndSplineSet
+Decomposition: "+4BQDBgAA"
 EndChar
 
 StartChar: uniE01B
@@ -97291,6 +97293,7 @@ SplineSet
  242.806640625 641 242.639648438 652 165.639648438 652 c 2
  141.639648438 652 l 1
 EndSplineSet
+Decomposition: "+4BYDBgAA"
 EndChar
 
 StartChar: uniE01C
@@ -97331,6 +97334,7 @@ SplineSet
  298.5 3 219.5 3 180.5 3 c 0
  142.5 3 63.5 3 28 0 c 1
 EndSplineSet
+Decomposition: "+4BcDBgAA"
 EndChar
 
 StartChar: uniE01D
@@ -98342,6 +98346,7 @@ SplineSet
  487.310546875 551 406.3125 503 333.3125 503 c 4
  263.3125 503 194.977539062 549 205.973632812 639 c 5
 EndSplineSet
+Decomposition: "+4C8DBgAA"
 EndChar
 
 StartChar: uniE037
@@ -98383,6 +98388,7 @@ SplineSet
  130.983398438 408 118.484375 369 94.822265625 269 c 1
  69.822265625 269 l 1
 EndSplineSet
+Decomposition: "+4DEDBgAA"
 EndChar
 
 StartChar: uniE038
@@ -98428,6 +98434,7 @@ SplineSet
  168.983398438 402 150.649414062 406 103.649414062 406 c 2
  100.649414062 406 l 1
 EndSplineSet
+Decomposition: "+4DMDBgAA"
 EndChar
 
 StartChar: uniE039
@@ -98461,6 +98468,7 @@ SplineSet
  213.166992188 1 178.5 3 143.5 3 c 0
  119.5 3 65.1669921875 1 33 0 c 1
 EndSplineSet
+Decomposition: "+4DUDBgAA"
 EndChar
 EndChars
 EndSplineFont
