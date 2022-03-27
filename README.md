@@ -28,7 +28,7 @@ CMUO가 포함하는 풀어쓰기 한글 자모는, 대문자와 소문자의 �
 
 ## 입력
 
-이 글꼴로 입력하기 위해서는 [ZyntharSekki](https://github.com/ZyntharSekki) 님이 만드신 날개셋 입력기용 자판 배열인 [Oesol-key](https://github.com/ZyntharSekki/Oesol-key)나 N. d. H. 님의 LaTeX 패키지인 [oesolscript](https://bitbucket.org/novadh/oesolscript/src/master/)를 이용하실 수 있습니다.
+이 글꼴로 입력하기 위해서는 [ZyntharSekki](https://github.com/ZyntharSekki) 님이 만드신 날개셋 입력기용 자판 배열인 [Oesol-key](https://github.com/ZyntharSekki/Oesol-key), N. d. H. 님의 LaTeX 패키지인 [oesolscript](https://bitbucket.org/novadh/oesolscript/src/master/), [피리](https://gitlab.com/phost) 님의 웹 입력기인 [아무넣](https://phost.gitlab.io/wt/am/)을 이용하실 수 있습니다.
 
 ## 그 밖의 사항들
 
