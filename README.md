@@ -3,7 +3,7 @@
 # Computer-Modern-Unicode-Oesol
 Computer Modern Unicode Oesol (이하, CMUO)은 언어학자 외솔 최현배 선생이 그의 저서 《글자의 혁명》에서 제안한 풀어쓰기 한글 자모를 구현한 컴퓨터 글꼴입니다.
 
-Computer Modern Unicode Oesol (henceforth, CMUO) is a computer font set for disassembled Hangul proposed in his *The Revolution of the Letters* by Choe Hyeon-bae (a. k. a. Oesol), a Korean linguist.
+Computer Modern Unicode Oesol (henceforth, CMUO) is a computer font set for disassembled Hangul proposed in his *The Revolution of the Letter* by Choe Hyeon-bae (a. k. a. Oesol), a Korean linguist.
 
 ## PUA 코드 할당
 
@@ -29,7 +29,7 @@ CMUO distinguishes two letter cases and contains some special *jamo*s, which are
 - Lowercase (ㅏ–ㅣ) — U+E02B–U+E034
 - Lowercase (*ttan-i*, ㅗ with breve, ㅜ with breve, ㅡ with breve, ㅣ breve) — U+E035–U+E039
 
-Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate glyphs or codes, and that “ㅇ” is placed right after “ㅅ” in accord with *Hangul Orthography,* though it is placed after “ㅎ” in the original proposal presented in *The Revolution of the Letters.*
+Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate glyphs or codes, and that “ㅇ” is placed right after “ㅅ” in accord with *Hangul Orthography,* though it is placed after “ㅎ” in the original proposal presented in *The Revolution of the Letter.*
 
 ## 특수 자모들에 대한 간단한 설명
 
@@ -41,7 +41,7 @@ Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate
 
 ## A Brief Note on the Special Letters
 
-- *Ttan-i*: Following “ㅏ”, “ㅑ”, “ㅓ”, “ㅕ”, “ㅗ” and possibly “ㅜ”, this forms “ㅐ”, “ㅒ” “ㅔ”, “ㅖ”, “ㅚ” and “ㅟ”, respectively. As for “ㅟ”, it is regarded as a diphthong in *The Revolution of Letters* and thus not formed by attaching *ttan-i* to “ㅜ”, but it may as well be reasonable to regard it a monophthong as in *Standard Language Regulations* and use *ttan-i*.
+- *Ttan-i*: Following “ㅏ”, “ㅑ”, “ㅓ”, “ㅕ”, “ㅗ” and possibly “ㅜ”, this forms “ㅐ”, “ㅒ” “ㅔ”, “ㅖ”, “ㅚ” and “ㅟ”, respectively. As for “ㅟ”, it is regarded as a diphthong in *The Revolution of the Letter* and thus not formed by attaching *ttan-i* to “ㅜ”, but it may as well be reasonable to regard it a monophthong as in *Standard Language Regulations* and use *ttan-i*.
 - ㅗ with breve: Preceding “ㅏ” and “ㅐ”, this represents the phoneme /w/; the “ㅗ” found in “ㅘ” and “ㅙ” for instance.
 - ㅜ with breve: Preceding “ㅓ”, “ㅔ” and “ㅣ”, this represents the phoneme /w/ (or /ɥ/ for “ㅣ”); the “ㅜ” found in “ㅝ”, “ㅞ” and “ㅟ” for instance.
 - ㅡ with breve: Preceding “ㅣ”, this represents the phoneme /ɰ/; the “ㅡ” found in “ㅢ” for instance.
