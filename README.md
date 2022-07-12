@@ -79,4 +79,4 @@ Thanks for every contribution.
 
 This font set is modified from Computer Modern Unicode, and thus distributed under the SIL Open Font License as well. Visit [here](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web) for further information on the SIL Open Font License.
 
-I don’t have much knowledge or technique on typography, so notice that the font might be more or less unbalanced. If you have something to improve or modify, to the extent allowed by the OFL License, you can freely modify and/or redistribute it.
+I don’t have much knowledge or technique on typography, so notice that the font might look more or less unbalanced. If you have something to improve or modify, to the extent allowed by the OFL License, you can freely modify and/or redistribute it.
