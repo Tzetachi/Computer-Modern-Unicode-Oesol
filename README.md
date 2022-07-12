@@ -41,7 +41,7 @@ Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate
 
 ## A Brief Note on the Special Letters
 
-- *Ttan-i*: Following “ㅏ”, “ㅑ”, “ㅓ”, “ㅕ”, “ㅗ” and possibly “ㅜ”, this forms “ㅐ”, “ㅒ” “ㅔ”, “ㅖ”, “ㅚ” and “ㅟ”, respectively. As for “ㅟ”, it is regarded as a diphthong in *The Revolution of the Letter* and thus not formed by attaching *ttan-i* to “ㅜ”, but it may as well be reasonable to regard it a monophthong as in *Standard Language Regulations* and use *ttan-i*.
+- *Ttan-i*: Following “ㅏ”, “ㅑ”, “ㅓ”, “ㅕ”, “ㅗ” and possibly “ㅜ”, this forms “ㅐ”, “ㅒ” “ㅔ”, “ㅖ”, “ㅚ” and “ㅟ”, respectively. As for “ㅟ”, it is regarded as a diphthong in *The Revolution of the Letter* and thus not formed by attaching *ttan-i* to “ㅜ” there, but it may as well be reasonable to regard it a monophthong as in *Standard Language Regulations* and use *ttan-i*.
 - ㅗ with breve: Preceding “ㅏ” and “ㅐ”, this represents the phoneme /w/; the “ㅗ” found in “ㅘ” and “ㅙ” for instance.
 - ㅜ with breve: Preceding “ㅓ”, “ㅔ” and “ㅣ”, this represents the phoneme /w/ (or /ɥ/ for “ㅣ”); the “ㅜ” found in “ㅝ”, “ㅞ” and “ㅟ” for instance.
 - ㅡ with breve: Preceding “ㅣ”, this represents the phoneme /ɰ/; the “ㅡ” found in “ㅢ” for instance.
