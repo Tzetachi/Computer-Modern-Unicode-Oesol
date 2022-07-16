@@ -67,7 +67,7 @@ You may take advantage of the following tools for input:
 - [아무넣](https://phost.gitlab.io/wt/am/): A web IME by [피리](https://gitlab.com/phost).
 - [oesolscript](https://bitbucket.org/novadh/oesolscript/src/master/): A LaTeX package by N. d. H.
 
-Thanks for every contribution for convenient use of the font.
+Thanks for every contribution for the convenient use of the font.
 
 ## 그 밖의 사항들
 
@@ -79,4 +79,4 @@ Thanks for every contribution for convenient use of the font.
 
 This font set is based on and modified from Computer Modern Unicode, and thereby also distributed under the SIL Open Font License. Visit [here](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web) for further information on the SIL Open Font License.
 
-I don’t have much knowledge or technique on typography, so notice that the font might look more or less unbalanced. If you have something to improve or modify, to the extent allowed by the OFL License, you can freely modify and/or redistribute it.
+I don’t have much knowledge or technique on typography, so beware that the font might look more or less unbalanced. If you have something to improve or modify, to the extent allowed by the OFL License, you can freely modify and/or redistribute it.
