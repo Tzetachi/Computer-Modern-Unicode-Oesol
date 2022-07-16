@@ -33,7 +33,7 @@ Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate
 
 ## 특수 자모들에 대한 간단한 설명
 
-- 딴이: “ㅏ”, “ㅓ”, “ㅗ”, 그리고 경우에 따라 “ㅜ” 등의 뒤에 붙어 “ㅐ”, “ㅔ”, “ㅚ”, “ㅟ”를 형성할 적에 쓰입니다. “ㅟ”는 《글자의 혁명》에서는 이중 모음으로 취급하여 딴이를 쓰지 않으나, 현행 〈한글 맞춤법〉을 따라 단모음으로 본다면, 딴이를 쓸 수도 있을 것입니다.
+- 딴이: “ㅏ”, “ㅓ”, “ㅗ”, 그리고 경우에 따라 “ㅜ” 등의 뒤에 붙어 “ㅐ”, “ㅔ”, “ㅚ”, “ㅟ”를 형성할 적에 쓰입니다. “ㅟ”는 《글자의 혁명》에서는 이중 모음으로 취급하여 딴이를 쓰지 않으나, 현행 〈표준어 규정〉을 따라 단모음으로 본다면, 딴이를 쓸 수도 있을 것입니다.
 - 짧은 ㅗ: “ㅏ”, “ㅐ” 등의 앞에 붙어 /w/ 음소를 나타냅니다; “ㅘ”와 “ㅙ”의 “ㅗ”라고 생각하시면 됩니다.
 - 짧은 ㅜ: “ㅓ”, “ㅔ”, “ㅣ” 등의 앞에 붙어 /w/ (또는 “ㅣ”의 경우 /ɥ/) 음소를 나타냅니다; “ㅝ”, “ㅞ”, “ㅟ”의 “ㅜ”라고 생각하시면 됩니다.
 - 짧은 ㅡ: “ㅣ”의 앞에 붙어 /ɰ/ 음소를 나타냅니다; “ㅢ”의 “ㅡ”라고 생각하시면 됩니다.
@@ -67,7 +67,7 @@ You may take advantage of the following tools for input:
 - [아무넣](https://phost.gitlab.io/wt/am/): A web IME by [피리](https://gitlab.com/phost).
 - [oesolscript](https://bitbucket.org/novadh/oesolscript/src/master/): A LaTeX package by N. d. H.
 
-Thanks for every contribution.
+Thanks for every contribution for convenient use of the font.
 
 ## 그 밖의 사항들
 
@@ -77,6 +77,6 @@ Thanks for every contribution.
 
 ## Miscellaneous
 
-This font set is modified from Computer Modern Unicode, and thus distributed under the SIL Open Font License as well. Visit [here](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web) for further information on the SIL Open Font License.
+This font set is based on and modified from Computer Modern Unicode, and thereby also distributed under the SIL Open Font License. Visit [here](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web) for further information on the SIL Open Font License.
 
 I don’t have much knowledge or technique on typography, so notice that the font might look more or less unbalanced. If you have something to improve or modify, to the extent allowed by the OFL License, you can freely modify and/or redistribute it.
