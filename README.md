@@ -24,10 +24,10 @@ CMUO distinguishes two letter cases and contains some special *jamo*s, which are
 
 - Uppercase (ㄱ–ㅎ) — U+E000–U+E00D
 - Uppercase (ㅏ–ㅣ) — U+E00E–U+E017
-- Uppercase (*ttan-i*, ㅗ with breve, ㅜ with breve, ㅡ with breve, ㅣ breve) — U+E018–U+E01C
+- Uppercase (*ttan-i*, ㅗ with breve, ㅜ with breve, ㅡ with breve, ㅣ with breve) — U+E018–U+E01C
 - Lowercase (ㄱ–ㅎ) — U+E01D–U+E02A
 - Lowercase (ㅏ–ㅣ) — U+E02B–U+E034
-- Lowercase (*ttan-i*, ㅗ with breve, ㅜ with breve, ㅡ with breve, ㅣ breve) — U+E035–U+E039
+- Lowercase (*ttan-i*, ㅗ with breve, ㅜ with breve, ㅡ with breve, ㅣ with breve) — U+E035–U+E039
 
 Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate glyphs or codes, and that “ㅇ” is placed right after “ㅅ” in accord with *Hangul Orthography,* though it is placed after “ㅎ” in the original proposal presented in *The Revolution of the Letter.*
 
