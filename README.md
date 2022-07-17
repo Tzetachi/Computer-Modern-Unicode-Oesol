@@ -51,7 +51,7 @@ Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate
 
 이 글꼴로 입력하기 위해 다음의 수단을 이용할 수 있습니다:
 - [Oesol-key](https://github.com/ZyntharSekki/Oesol-key): [ZyntharSekki](https://github.com/ZyntharSekki) 님의 날개셋 입력기용 자판 배열.
-- [Oesol-Keyman](https://github.com/oysol/Oesol-Keyman): [oysol](https://github.com/oysol) 님의 Keyman 입력기용 자판 배열.
+- [Oysol-key](https://github.com/oysol/Oysol-key): [oysol](https://github.com/oysol) 님의 Keyman 입력기용 자판 배열.
 - [oysolscript](https://github.com/oysol/oysolscript): [oysol](https://github.com/oysol) 님의 Emacs용 Yale 로마자 표기법-외솔 풀어쓰기 간 변환기.
 - [아무넣](https://phost.gitlab.io/wt/am/): [피리](https://gitlab.com/phost) 님의 웹 입력기.
 - [oesolscript](https://bitbucket.org/novadh/oesolscript/src/master/): N. d. H. 님의 LaTeX 패키지.
@@ -62,7 +62,7 @@ Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate
 
 You may take advantage of the following tools for input:
 - [Oesol-key](https://github.com/ZyntharSekki/Oesol-key): A keyboard layout for Nalgaeset Hangul Input by [ZyntharSekki](https://github.com/ZyntharSekki).
-- [Oesol-Keyman](https://github.com/oysol/Oesol-Keyman): A keyboard layout for Keyman by [oysol](https://github.com/oysol).
+- [Oysol-key](https://github.com/oysol/Oysol-key/): A keyboard layout for Keyman by [oysol](https://github.com/oysol).
 - [oysolscript](https://github.com/oysol/oysolscript): A Yale romanization to Oesol disassembled Hangul converter for Emacs by [oysol](https://github.com/oysol).
 - [아무넣](https://phost.gitlab.io/wt/am/): A web IME by [피리](https://gitlab.com/phost).
 - [oesolscript](https://bitbucket.org/novadh/oesolscript/src/master/): A LaTeX package by N. d. H.
