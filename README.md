@@ -70,7 +70,7 @@ You may take advantage of the following tools for input:
 Thanks for every contribution for enhancing convenience in using CMUO.
 ## 그 밖의 사항들
 
-이 글꼴은 [Computer Modern Unicode](https://cm-unicode.sourceforge.io/)를 기반으로 수정하여 만들어졌으며, Computer Modern Unicode와 동일하게 SIL Open Font License하에 배포됩니다. SIL Open Font License에 대한 더 자세한 정보는 [이곳](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)에서 얻을 수 있습니다.
+이 글꼴은 [Computer Modern Unicode](https://cm-unicode.sourceforge.io/)를 기반으로 수정하여 만들어졌으며, 그와 동일하게 SIL Open Font License하에 배포됩니다. SIL Open Font License에 대한 더 자세한 정보는 [이곳](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)에서 얻을 수 있습니다.
 
 제작자 본인은 타이포그래피에 관한 전문 지식/기술을 갖추지 않았습니다. 이 때문에 글꼴이 다소간 조화롭지 못할 수 있다는 점을 유의하시기 바랍니다. 만약 개선하거나 수정하고 싶은 사항이 있다면, OFL License가 허용하는 한도 내에서, 자유로이 수정 및 재배포하실 수 있습니다.
 
