@@ -37,7 +37,7 @@ Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate
 - 짧은 ㅗ: “ㅏ”, “ㅐ” 등의 앞에 붙어 /w/ 음소를 나타냅니다; “ㅘ”와 “ㅙ”의 “ㅗ”라고 생각하시면 됩니다.
 - 짧은 ㅜ: “ㅓ”, “ㅔ”, “ㅣ” 등의 앞에 붙어 /w/ (또는 “ㅣ”의 경우 /ɥ/) 음소를 나타냅니다; “ㅝ”, “ㅞ”, “ㅟ”의 “ㅜ”라고 생각하시면 됩니다.
 - 짧은 ㅡ: “ㅣ”의 앞에 붙어 /ɰ/ 음소를 나타냅니다; “ㅢ”의 “ㅡ”라고 생각하시면 됩니다.
-- 짧은 ㅣ: /j/ 음소를 나타내며, 일반적인 표기에는 쓰이지 않고, 대신 “ㅑ”, “ㅒ”, “ㅕ”, “ㅖ”, “ㅛ”, “ㅠ” 등을 씁니다.
+- 짧은 ㅣ: /j/ 음소를 나타내며, 일반적인 표기에는 쓰이지 않고, 대신 “ㅑ”, “ㅕ”, “ㅛ”, “ㅠ” 등을 씁니다.
 
 ## A Brief Note on the Special Letters
 
@@ -45,7 +45,7 @@ Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate
 - ㅗ with breve: Preceding “ㅏ” and “ㅐ”, this represents the phoneme /w/; the “ㅗ” found in “ㅘ” and “ㅙ” for instance.
 - ㅜ with breve: Preceding “ㅓ”, “ㅔ” and “ㅣ”, this represents the phoneme /w/ (or /ɥ/ for “ㅣ”); the “ㅜ” found in “ㅝ”, “ㅞ” and “ㅟ” for instance.
 - ㅡ with breve: Preceding “ㅣ”, this represents the phoneme /ɰ/; the “ㅡ” found in “ㅢ” for instance.
-- ㅣ with breve: This represents the phoneme /j/ and is not intended to be used in general writing. Use instead “ㅑ”, “ㅒ”, “ㅕ”, “ㅖ”, “ㅛ”, “ㅠ”, etc.
+- ㅣ with breve: This represents the phoneme /j/ and is not intended to be used in general writing. Use instead “ㅑ”, “ㅕ”, “ㅛ”, “ㅠ”, etc.
 
 ## 입력
 
@@ -56,7 +56,7 @@ Note that digraphs such as “ㄸ” and “ㅒ” are not assigned any separate
 - [아무넣](https://phost.gitlab.io/wt/am/): [피리](https://gitlab.com/phost) 님의 웹 입력기.
 - [oesolscript](https://bitbucket.org/novadh/oesolscript/src/master/): N. d. H. 님의 LaTeX 패키지.
 
-편리한 글꼴 사용에 도움을 주셔 감사드립니다.
+편리한 글꼴 사용에 도움을 주시어 감사드립니다.
 
 ## Input Methods
 
@@ -67,7 +67,7 @@ You may take advantage of the following tools for input:
 - [아무넣](https://phost.gitlab.io/wt/am/): A web IME by [피리](https://gitlab.com/phost).
 - [oesolscript](https://bitbucket.org/novadh/oesolscript/src/master/): A LaTeX package by N. d. H.
 
-Thanks for every contribution for enhancing convenience in using CMUO.
+Thanks for every contribution on facilitating the use of CMUO.
 ## 그 밖의 사항들
 
 이 글꼴은 [Computer Modern Unicode](https://cm-unicode.sourceforge.io/)를 기반으로 수정하여 만들어졌으며, 그와 동일하게 SIL Open Font License하에 배포됩니다. SIL Open Font License에 대한 더 자세한 정보는 [이곳](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web)에서 얻을 수 있습니다.
