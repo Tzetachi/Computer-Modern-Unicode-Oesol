@@ -5,6 +5,8 @@ Computer Modern Unicode Oesol (이하, CMUO)은 언어학자 외솔 최현배 �
 
 Computer Modern Unicode Oesol (henceforth, CMUO) is a computer font set for disassembled Hangul proposed in his *The Revolution of the Letter* by Choe Hyeon-bae (a. k. a. Oesol), a Korean linguist.
 
+![Table](Table.png)
+
 ## PUA 코드 할당
 
 CMUO가 포함하는 풀어쓰기 한글 자모는, 대문자와 소문자의 구분이 있고, 현행 〈한글 맞춤법〉에 없는 특수 자모들이 있다는 특성상, 부득이 Private Use Area에 배정하였으며, 각각의 코드는 다음과 같습니다:
